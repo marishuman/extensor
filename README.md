@@ -12,9 +12,9 @@ code.py converts the width data sent to an adafruit cricket by the openMV camera
 # How to use ?
 
 You need the following materials:
--Two adafruit air pumps
--One adafruit cricket and the cricket playground
--OpenMV camera 
+-Two adafruit air pumps__
+-One adafruit cricket and the cricket playground__
+-OpenMV camera__
 
 1. Download and install openMV and MU editor.
 2. Load the code.py file into the MU editor (A file must be named code.py to be loaded properly in MU. If you want to test using the UART.py file, rename the file accordingly)
